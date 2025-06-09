@@ -124,7 +124,7 @@ import { useRef, useState, useEffect } from "react";
 import emailjs from "@emailjs/browser";
 
 import TitleHeader from "../components/TitleHeader";
-import ContactExperience from "../components/models/contact/ContactExperience";
+import ContactExperience from "../components/temp_models/contact/ContactExperience";
 
 const Contact = () => {
   const formRef = useRef(null);
