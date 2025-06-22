@@ -56,4 +56,4 @@ If you liked this project:
 
 ## Status
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="320"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeveloperMK07&show_icons=true&theme=tokyonight" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMK07&layout=compact&theme=tokyonight" width="320"/> </p>
