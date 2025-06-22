@@ -15,7 +15,7 @@
 
 ## 🖼️ Live Preview
 
-👉 **[Check it out here](https://your-portfolio-link.com)**
+👉 **[Check it out here](https://mayuresh-kadale-portfolio.vercel.app/)**
 
 ---
 
