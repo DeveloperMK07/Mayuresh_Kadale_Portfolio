@@ -1,12 +1,59 @@
-# React + Vite
+<h1 align="center">🚀 My 3D Portfolio Website ✨</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Built%20With-React%2019-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  A visually immersive, interactive 3D portfolio website 🎨🧠 powered by modern web technologies like <strong>React 19</strong>, <strong>Three.js</strong>, <strong>GSAP</strong>, and <strong>Tailwind CSS</strong>.  
+  It's where my code meets creativity 💻💫
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Live Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 **[Check it out here](https://your-portfolio-link.com)**
+
+---
+
+## 🎯 Features
+
+- 🧩 Fully animated sections with **GSAP**
+- 🌌 Interactive 3D scenes using **Three.js** & **React Three Fiber**
+- ✉️ Functional contact form powered by **EmailJS**
+- 📱 Fully responsive design with **Tailwind CSS**
+- 💡 Smooth transitions and effects for a modern look
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech                     | Usage                                |
+|--------------------------|--------------------------------------|
+| ⚛️ React 19              | UI Framework                         |
+| 🌀 Vite                   | Lightning-fast bundler               |
+| 🧪 Tailwind CSS           | Utility-first CSS framework          |
+| 🌌 Three.js + Fiber       | 3D visuals & animations              |
+| 🎞 GSAP + @gsap/react     | Scroll-based animations              |
+| ✉️ EmailJS                | Contact form integration             |
+| 📊 React CountUp          | Animated counters                    |
+| 📱 React Responsive       | Device-based rendering logic         |
+
+---
+
+## 🌟 Support
+
+If you liked this project:
+
+⭐ Star this repo
+
+🛠️ Fork and improve
+
+📣 Share it with others!
+
+## Status
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="320"/> </p>
