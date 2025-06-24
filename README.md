@@ -15,6 +15,7 @@
 
 ## 🖼️ Live Preview
 
+You can check the visit and review the porfolio website by clicking the following link:
 👉 **[Check it out here](https://mayuresh-kadale-portfolio.vercel.app/)**
 
 ---
